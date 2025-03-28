@@ -4,7 +4,7 @@
     media="(prefers-color-scheme: light)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=C0APacketAnimation&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=C0APacketAnimation"
     media="(prefers-color-scheme: light)"
   />
   
